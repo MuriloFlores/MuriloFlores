@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Eu sou o Murilo Flores 👋
 
-<!--
-**MuriloFlores/MuriloFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Backend Júnior | Go • Python • Apache Kafka • AWS**
 
-Here are some ideas to get you started:
+[cite_start]Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance[cite: 54]. [cite_start]Minha base é em **Go** e **Python**[cite: 51], e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- [cite_start]💼 Trabalhando atualmente como **Estagiário em Engenharia de Dados e Backend** na Fundação Getulio Vargas[cite: 59].
+- [cite_start]🛠️ Liderando tecnicamente a modernização de pipelines de ETL, migrando arquiteturas síncronas para **orientadas a eventos** com **Apache Kafka** e **AWS**[cite: 61, 62, 63].
+- [cite_start]🎓 Graduando em **Ciência da Computação** (2020 - 2027)[cite: 78].
+- [cite_start]💡 Foco constante em **Clean Architecture, Domain-Driven Design (DDD) e princípios SOLID** para garantir a qualidade do código[cite: 51, 56].
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+**Linguagens de Programação:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Mensageria, Cloud e DevOps:**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Bancos de Dados:**
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 📈 Meus Projetos em Destaque
+
+- [cite_start]🛒 **[Store Manager](https://github.com/MuriloFlores/store-manager):** API RESTful completa em **Go** para gerenciamento dinâmico de lojas e controle de estoque, aplicando princípios de código limpo e escalabilidade[cite: 80].
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-flores/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloaflores@gmail.com)
