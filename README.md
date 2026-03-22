@@ -1,6 +1,6 @@
 # Olá! Eu sou o Murilo Flores 👋
 
-**Desenvolvedor Backend Júnior | Go • Python **
+**Desenvolvedor Backend Júnior | Go • Python**
 
 Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance. Minha base é em **Go** e **Python**, e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem
 
