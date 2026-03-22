@@ -2,7 +2,9 @@
 
 **Desenvolvedor Backend Júnior | Go • Python**
 
-Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance. Minha base é em **Go** e **Python**, e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem
+Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance. Minha base é em **Go** e **Python**, e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem.
+
+🌐 **[Mais sobre mim](https://portfolio.muriloflores.xyz/)**
 
 ### 🚀 Sobre mim
 
@@ -40,5 +42,6 @@ Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar sol
 
 ### 📫 Vamos nos conectar?
 
+[![Portfolio](https://img.shields.io/badge/Meu%20Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](COLOQUE_O_LINK_AQUI)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-flores/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriloaflores@gmail.com)
