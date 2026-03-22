@@ -1,15 +1,15 @@
 # Olá! Eu sou o Murilo Flores 👋
 
-**Desenvolvedor Backend Júnior | Go • Python • Apache Kafka • AWS**
+**Desenvolvedor Backend Júnior | Go • Python **
 
-[cite_start]Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance[cite: 54]. [cite_start]Minha base é em **Go** e **Python**[cite: 51], e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem.
+Sou um desenvolvedor apaixonado por arquitetura de software, focado em criar soluções escaláveis, resilientes e de alta performance. Minha base é em **Go** e **Python**, e atualmente estou aprofundando meus conhecimentos práticos em sistemas distribuídos e automação na nuvem.
 
 ### 🚀 Sobre mim
 
-- [cite_start]💼 Trabalhando atualmente como **Estagiário em Engenharia de Dados e Backend** na Fundação Getulio Vargas[cite: 59].
-- [cite_start]🛠️ Liderando tecnicamente a modernização de pipelines de ETL, migrando arquiteturas síncronas para **orientadas a eventos** com **Apache Kafka** e **AWS**[cite: 61, 62, 63].
-- [cite_start]🎓 Graduando em **Ciência da Computação** (2020 - 2027)[cite: 78].
-- [cite_start]💡 Foco constante em **Clean Architecture, Domain-Driven Design (DDD) e princípios SOLID** para garantir a qualidade do código[cite: 51, 56].
+- 💼 Trabalhando atualmente como **Estagiário em Engenharia de Dados e Backend** na Fundação Getulio Vargas.
+- 🛠️ Liderando tecnicamente a modernização de pipelines de ETL, migrando arquiteturas síncronas para **orientadas a eventos** com **Apache Kafka** e **AWS**.
+- 🎓 Graduando em **Ciência da Computação**.
+- 💡 Foco constante em **Clean Architecture, Domain-Driven Design (DDD) e princípios SOLID** para garantir a qualidade do código.
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### 📈 Meus Projetos em Destaque
 
-- [cite_start]🛒 **[Store Manager](https://github.com/MuriloFlores/store-manager):** API RESTful completa em **Go** para gerenciamento dinâmico de lojas e controle de estoque, aplicando princípios de código limpo e escalabilidade[cite: 80].
+- 🛒 **[Store Manager](https://github.com/MuriloFlores/store-manager):** API RESTful completa em **Go** para gerenciamento dinâmico de lojas e controle de estoque, aplicando princípios de código limpo e escalabilidade.
 
 ---
 
